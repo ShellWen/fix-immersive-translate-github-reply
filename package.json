@@ -1,6 +1,6 @@
 {
   "name": "fix-immersive-translate-github-reply",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Fix immersive translate github reply bug",
   "main": "userscript/index.user.js",
   "scripts": {
