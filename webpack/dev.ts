@@ -12,7 +12,8 @@ export default merge(base, {
     path: path.resolve('.', 'userscripts'),
     filename: 'index.dev.user.js',
   },
-  devtool: 'eval-source-map',
+  //   devtool: 'eval-source-map',
+  devtool: 'inline-source-map',
   watch: true,
   watchOptions: {
     ignored: /node_modules/,
